@@ -17,5 +17,3 @@ captured as pups
 ~ utm1.csv, utm2.csv: contains the UTM coordinates, date, and time of locations
 collected from VHF collared animals
 ~ finalRaster524.grd: a file containing geospatial social and environmental data
-
-
