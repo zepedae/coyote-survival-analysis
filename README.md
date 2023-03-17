@@ -24,14 +24,27 @@ of life whereas the global model uses the entire set of locations.
 
 
 ### Files
+<<<<<<< Updated upstream
 Data used in this study are the property of the Urban Coyote Research Project
 and cannot be shared here. Below are descriptions of each file for those
 looking to recreate the analysis with their own data.
 
 * mortality.csv: contains data on the approximate date of death for coyotes 
+||||||| Stash base
+Data used in this study is the property of the Urban Coyote Research Project
+and cannot be shared here. Below are descriptions of each file for those
+looking to recreate the analysis with their own data.
+
+* mortality.csv: contains data on the approximate date of death for coyotes 
+=======
+I do not have authorization to share the data used in the analysis; however,
+I describe their contents below in case you want to recreate the analysis with
+your own data.
+~ mortality.csv: contains data on the approximate date of death for coyotes 
+>>>>>>> Stashed changes
 recovered postmortem
-* parent_pup_ids: approximate birth date and RFID of individuals who were 
+~ parent_pup_ids: approximate birth date and RFID of individuals who were 
 captured as pups
-* utm1.csv, utm2.csv: contains the UTM coordinates, date, and time of locations
+~ utm1.csv, utm2.csv: contains the UTM coordinates, date, and time of locations
 collected from VHF collared animals
-* finalRaster524.grd: a file containing geospatial social and environmental data
+~ finalRaster524.grd: a file containing geospatial social and environmental data
