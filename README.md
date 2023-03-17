@@ -24,7 +24,7 @@ of life whereas the global model uses the entire set of locations.
 
 
 ### Files
-Data used in this study is the property of the Urban Coyote Research Project
+Data used in this study are the property of the Urban Coyote Research Project
 and cannot be shared here. Below are descriptions of each file for those
 looking to recreate the analysis with their own data.
 
